@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matth\\Documents\\repo-cesi\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
+      "projectUniqueName": "C:\\Users\\matth\\Documents\\repo-cesi\\EasySave\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
       "projectName": "CryptoSoft",
-      "projectPath": "C:\\Users\\matth\\Documents\\repo-cesi\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
+      "projectPath": "C:\\Users\\matth\\Documents\\repo-cesi\\EasySave\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
       "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matth\\Documents\\repo-cesi\\CryptoSoft\\CryptoSoft\\obj\\",
+      "outputPath": "C:\\Users\\matth\\Documents\\repo-cesi\\EasySave\\CryptoSoft\\CryptoSoft\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
